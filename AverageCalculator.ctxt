@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=cards
+comment0.target=AverageCalculator(java.util.ArrayList)
+comment1.params=cards
+comment1.target=int\ avMagicCalc(java.util.ArrayList)
+comment1.text=\r\n\ \r\n\ Calculates\ the\ average\ magic\ attribute\ for\ all\ cards.\r\n\ \r\n\ @param\ cards\ The\ ArrayList\ named\ cards\ which\ has\ all\ the\ cards\ for\ the\ game\ stored.\r\n\ \r\n
+comment2.params=cards
+comment2.target=int\ avSpeedCalc(java.util.ArrayList)
+comment2.text=\r\n\ \r\n\ Calculates\ the\ average\ speed\ attribute\ for\ all\ cards.\r\n\ \r\n\ @param\ cards\ The\ ArrayList\ named\ cards\ which\ has\ all\ the\ cards\ for\ the\ game\ stored.\r\n\ \r\n
+comment3.params=cards
+comment3.target=int\ avLethalityCalc(java.util.ArrayList)
+comment3.text=\r\n\ \r\n\ Calculates\ the\ average\ lethality\ attribute\ for\ all\ cards.\r\n\ \r\n\ @param\ cards\ The\ ArrayList\ named\ cards\ which\ has\ all\ the\ cards\ for\ the\ game\ stored.\r\n\ \r\n
+comment4.params=cards
+comment4.target=int\ avStrengthCalc(java.util.ArrayList)
+comment4.text=\r\n\ \r\n\ Calculates\ the\ average\ strength\ attribute\ for\ all\ cards.\r\n\ \r\n\ @param\ cards\ The\ ArrayList\ named\ cards\ which\ has\ all\ the\ cards\ for\ the\ game\ stored.\r\n\ \r\n
+comment5.params=cards
+comment5.target=int\ avMoralityCalc(java.util.ArrayList)
+comment5.text=\r\n\ \r\n\ Calculates\ the\ average\ morality\ attribute\ for\ all\ cards.\r\n\ \r\n\ @param\ cards\ The\ ArrayList\ named\ cards\ which\ has\ all\ the\ cards\ for\ the\ game\ stored.\r\n\ \r\n
+numComments=6

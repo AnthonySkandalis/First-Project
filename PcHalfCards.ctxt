@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=cards
+comment0.target=PcHalfCards(java.util.ArrayList)
+comment0.text=\r\n\ Creates\ the\ ArrayList\ with\ half\ of\ the\ input\ ArrayLists\ contents.\r\n\ \r\n\ @param\ cards\ The\ ArrayList\ containing\ all\ the\ cards.\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ returnCards()
+numComments=2

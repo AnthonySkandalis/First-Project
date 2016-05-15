@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=userCards\ pcCards\ cards\ avMagic\ avSpeed\ avLethality\ avStrength\ avMorality
+comment0.target=pcPlay(java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ int,\ int,\ int,\ int,\ int)
+comment1.params=userCards\ pcCards\ cards\ avMagic\ avSpeed\ avLethality\ avStrength\ avMorality
+comment1.target=void\ computerPlayer(java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Method\ for\ the\ automation\ of\ the\ computer\ player.\r\n\ \r\n\ @param\ userCards\ The\ ArrayList\ storing\ the\ cards\ of\ the\ user\ player.\r\n\ @param\ pcCards\ The\ ArrayList\ storing\ the\ cards\ of\ the\ computer\ player.\r\n\ @param\ cards\ The\ ArrayList\ storing\ all\ the\ cards.\r\n\ @param\ avMagic\ Int\ variable\ for\ average\ magic\ attribute.\r\n\ @param\ avSpeed\ Int\ variable\ for\ average\ speed\ attribute.\r\n\ @param\ avLethality\ Int\ variable\ for\ average\ lethality\ attribute.\r\n\ @param\ avStrength\ Int\ variable\ for\ average\ strength\ attribute.\r\n\ @param\ avMorality\ Int\ variable\ for\ average\ morality\ attribute.\r\n\ \r\n
+numComments=2

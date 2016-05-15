@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=file
+comment0.target=CardsCreator(java.io.File)
+comment1.params=file
+comment1.target=void\ getData(java.io.File)
+comment1.text=\r\n\ \r\n\ Creates\ a\ new\ Card\ ArrayList\ with\ the\ contents\ of\ the\ file\ that\ is\ input.\r\n\ \r\n\ @param\ file\ The\ text\ file\ used\ to\ generate\ the\ card\ data.\r\n\ \r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ returnCards()
+numComments=3
